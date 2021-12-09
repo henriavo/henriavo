@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henri Idrovo</h1>
+<h1 align="center">Hi 👋, I'm Henri </h1>
 <h3 align="center">Chi-town sotware developer</h3>
 
 - 🔭 I’m currently working on [Spring + React demo](https://github.com/henriavo/spring-react-demo)
