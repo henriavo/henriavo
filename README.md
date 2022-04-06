@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henri </h1>
 <h3 align="center">Chi-town sotware developer</h3>
 
-- 🔭 I’m currently working on [Spring + React demo](https://github.com/henriavo/spring-react-demo)
+- 🔭 I’m currently working on <a href="https://spring.io/guides/gs/handling-form-submission/">Spring-Web guide.</a>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Web Fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/henriavo](https://github.com/henriavo)
 
