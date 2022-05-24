@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henri </h1>
-<h3 align="center">Chi-town sotware developer</h3>
+<h3 align="center">Chicago sotware developer</h3>
 
 - 🌱 I’m currently learning **Web Fundamentals**
 
