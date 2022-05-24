@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/henri-idrovo-7427402b/](https://www.linkedin.com/in/henri-idrovo-7427402b/)
 
-- ⚡ Fun fact **I play basketball in my freetime 🏀**
+- 🏀 Fun fact **I play basketball in my freetime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
