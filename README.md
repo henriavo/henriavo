@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Henri </h1>
 <h3 align="center">I'm a software engineer</h3>
 
-- 🌱 I’m currently learning **Web Fundamentals**
+- 🌱 I’m currently learning [https://kit.svelte.dev/](SvelteKit)
 
 - 👨‍💻 All of my projects are available at [https://github.com/henriavo](https://github.com/henriavo)
 
