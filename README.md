@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Henri </h1>
-<h3 align="center">I'm a software engineer</h3>
+<h3 align="center">I'm a software engineer. I graduated with a BS in Computer Engineering from the Illinois Institute of Technology. </h3>
 
 - 🌱 I’m currently learning [https://kit.svelte.dev/](SvelteKit)
 
